@@ -1,39 +1,24 @@
-# Proyecto Crypto Comunitaria (nombre por definir)
+# Buscamos desarrolladores — Proyecto de nueva criptomoneda
 
-Resumen
--------
-Proyecto open-source, sin ánimo de lucro, para crear una criptomoneda minable y una DEX propia en su blockchain. Este repositorio servirá para coordinar el desarrollo, documentación y gobernanza.
+Estamos formando un equipo de desarrolladores y colaboradores para crear una nueva criptomoneda. Por el momento NO se ha definido el nombre, el símbolo ni el algoritmo.
 
-Qué construiremos
-- Blockchain minable (PoW) o híbrido (a decidir).
-- Cliente/Client Nodes y herramientas de minería.
-- DEX y estándar de tokens nativo.
-- Wallets, explorer, infra y auditorías.
+Si eres desarrollador blockchain, ingeniero de software, auditor de seguridad, diseñador de UX o tienes experiencia relevante y quieres ayudar a construir este proyecto, por favor contáctanos y propone cómo te gustaría contribuir.
 
-Cómo puedes ayudar
-1. Únete a las discusiones en GitHub Discussions (habilitado).
-2. Revisa las issues etiquetadas como "help wanted" o "good first issue".
-3. Propón mejoras en forma de issues o RFCs (carpeta /docs/rfc).
+Cómo postularte:
+- Abre una issue en este repositorio con el título: "Quiero ayudar — [rol]" y describe tu experiencia y disponibilidad.
+- Adjunta tu GitHub y, si lo deseas, un breve portafolio o CV.
 
-Roles necesarios
-- Blockchain devs (C++, Rust, Go)
-- Substrate/Cosmos/Solana/Other framework experts
-- Smart contract devs
-- DevOps / infra / security
-- Frontend / UX
-- Legal / compliance
-- Community & marketing
+Lo que buscamos (ejemplos):
+- Desarrollo de contratos inteligentes (Solidity, Rust, CosmWasm, Substrate)
+- Seguridad y auditoría
+- Backend, APIs, y DevOps
+- Frontend y wallets
+- Diseño de gobernanza y tokenomics
 
-Transparencia y gobernanza
-- Todos los fondos iniciales se gestionarán en multisig con responsables conocidos.
-- Decisiones técnicas y económicas por propuestas públicas y votación de la comunidad (procedimiento a definir).
+Recompensas y roles: a definir. Si tienes propuestas concretas para compensación o bounties, indícalas en tu issue.
 
-Cómo empezar
-- Presenta tu interés en Discussions con el formato pedido en la plantilla de reclutamiento.
-- Revisa CONTRIBUTING.md para normas y proceso de PR.
+Contacto: https://github.com/fg23769-design
 
-Licencia
-- MIT (por defecto). Se definirá en grupo si se desea otra.
+Nota: Este repositorio ha sido limpiado para mostrar únicamente esta convocatoria; cualquier otro contenido previo ha sido removido.
 
-Contacto
-- Owner/organizer: fg23769-design (GitHub)
+(Archivo creado por instrucción del propietario del repositorio.)
